@@ -15,3 +15,24 @@
 
 ### Academic Skills for University Success Specialization
 [![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/QTOANSP0V7MM)
+
+### AI For Everyone
+[![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/KOS2FZTZ97UJ)
+
+### Web Design for Everybody Capstone
+[![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/86GYS81HOBDG)
+
+### Advanced Styling with Responsive Design
+[![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/86GYS81HOBDG)
+
+### Interactivity with JavaScript
+[![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/D9B4V7L19UG9)
+
+### Introduction to CSS3
+[![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/23VBMWC1ODNC)
+
+### Introduction to HTML5
+[![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/PXA4I2AKNAIJ)
+
+### Web Design for Everybody: Basics of Web Development & Coding
+[![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/BHHE7W59T5A9)
