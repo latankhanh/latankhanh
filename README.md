@@ -15,3 +15,6 @@
 
 ### Software Engineering: Implementation and Testing – HKUST (Coursera) | Jan 2026
 [![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/DGIP99DX24KN)
+
+### Software Engineering: Software Design and Project Management – HKUST (Coursera) | Jan 2026
+[![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/Q6QFDNZ1W4XO)
