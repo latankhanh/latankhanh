@@ -10,11 +10,5 @@
 ### Generative AI in Software Development – Amazon (Coursera) | Jan 2026
 [![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/TFOBWX06MXBZ)
 
-### Software Engineering: Modeling Software Systems using UML – HKUST (Coursera) | Jan 2026
-[![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/R7V9S5QCGXDW)
-
-### Software Engineering: Implementation and Testing – HKUST (Coursera) | Jan 2026
-[![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/DGIP99DX24KN)
-
-### Software Engineering: Software Design and Project Management – HKUST (Coursera) | Jan 2026
-[![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/Q6QFDNZ1W4XO)
+### Software Engineering Specialization – HKUST (Coursera) | Jan 2026
+[![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/MXVAQ70A4FWG)
